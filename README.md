@@ -35,7 +35,7 @@ Methods (High-Level):
 
 * Data preprocessing and standardization
 * Clustering techniques (PAM, k-means, hierarchical clustering)
-* Dimensionality reduction (ePCA)
+* Dimensionality reduction (PCA)
 * Cluster interpretation and visualization
 
 
