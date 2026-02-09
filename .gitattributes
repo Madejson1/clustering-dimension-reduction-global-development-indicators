@@ -1,0 +1,5 @@
+# Treat notebooks as Python
+*.ipynb linguist-language=Python
+
+# Ignore generated outputs
+*.html linguist-generated=true
